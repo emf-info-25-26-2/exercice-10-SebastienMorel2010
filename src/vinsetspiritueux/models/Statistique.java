@@ -14,7 +14,7 @@ public class Statistique {
      */
     // VOTRE CODE ICI...
 
-    /** 
+    /**
      * La bouteille la moins chère non modifiable.
      */
     // VOTRE CODE ICI...
@@ -23,20 +23,21 @@ public class Statistique {
      * Le nombre de bouteilles non modifiable.
      */
     // VOTRE CODE ICI...
-    
+
     /**
      * Le prix moyen des bouteilles non modifiable.
      */
     // VOTRE CODE ICI...
     /**
-     * Le constructeur de la classe Statistique. Toujours initialiser TOUS les attributs !
+     * Le constructeur de la classe Statistique. Toujours initialiser TOUS les
+     * attributs !
      *
-     * @param laPlusChere la plus chère des bouteilles trouvée
-     * @param laMoinsChere la moins chère des bouteilles trouvée
+     * @param laPlusChere    la plus chère des bouteilles trouvée
+     * @param laMoinsChere   la moins chère des bouteilles trouvée
      * @param nbreBouteilles le nombre de bouteilles trouvées
-     * @param prixMoyen le prix moyen de l'ensemble des bouteilles trouvées
+     * @param prixMoyen      le prix moyen de l'ensemble des bouteilles trouvées
      */
-    public Statistique( Bouteille laPlusChere, Bouteille laMoinsChere, int nbreBouteilles, double prixMoyen ) {
+    public Statistique(Bouteille laPlusChere, Bouteille laMoinsChere, int nbreBouteilles, double prixMoyen) {
         // VOTRE CODE ICI...
     }
 
@@ -55,7 +56,7 @@ public class Statistique {
      * @return la bouteille la moins chère
      */
     public Bouteille getLaMoinsChere() {
-        7/ VOTRE CODE ICI...
+        // VOTRE CODE ICI...
     }
 
     /**
